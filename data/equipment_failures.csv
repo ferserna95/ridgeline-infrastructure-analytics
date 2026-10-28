@@ -1,0 +1,6 @@
+equipment_id,failure_date,type,downtime_days
+EXC-03,2025-09-12,Unplanned breakdown,6
+PAV-02,2026-01-20,Unplanned breakdown,16
+ROL-03,2026-09-02,Unplanned breakdown,17
+CRA-01,2026-04-08,Unplanned breakdown,8
+DUM-02,2026-07-15,Unplanned breakdown,11

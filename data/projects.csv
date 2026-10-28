@@ -1,0 +1,39 @@
+project_id,name,type,state,client,project_manager,contract_value,budget_at_completion,start_date,planned_end,actual_end,status,final_cost,change_order_total
+P001,Drainage & culverts #1,Drainage & culverts,OK,Port Authority,PM-01,3913831.42,3522448.28,2020-07-21,2021-04-27,2021-05-25,Completed,3875159.85,50368.65
+P002,Intersection upgrade #2,Intersection upgrade,TX,County,PM-01,3478225.68,3130403.11,2025-08-11,2026-03-23,2026-05-11,Completed,3338282.65,74267.66
+P003,Road resurfacing #3,Road resurfacing,TX,County,PM-01,8349725.36,7514752.82,2023-12-29,2024-05-03,2024-05-10,Completed,7628382.49,57831.73
+P004,Road resurfacing #4,Road resurfacing,AR,State DOT,PM-01,4691530.65,4222377.58,2022-03-05,2022-07-16,2022-07-16,Completed,5013306.19,14845.79
+P005,Drainage & culverts #5,Drainage & culverts,TX,County,PM-01,6345698.29,5711128.46,2023-01-09,2023-07-03,2023-07-10,Completed,6207597.19,92178.83
+P006,Intersection upgrade #6,Intersection upgrade,TX,City,PM-03,4844694.72,4360225.24,2020-08-03,2021-02-01,2021-02-01,Completed,4478335.11,80932.39
+P007,Intersection upgrade #7,Intersection upgrade,TX,State DOT,PM-04,9571339.82,8614205.84,2026-04-06,2027-03-15,,Active,,146428.74
+P008,Intersection upgrade #8,Intersection upgrade,AR,County,PM-01,5704631.46,5134168.31,2020-07-24,2021-07-16,2021-09-17,Completed,6049151.3,30406.77
+P009,Intersection upgrade #9,Intersection upgrade,AR,County,PM-02,7930775.9,7137698.31,2022-08-14,2023-04-23,2023-06-04,Completed,9107819.58,346353.28
+P010,Road resurfacing #10,Road resurfacing,AR,County,PM-02,5837913.23,5254121.9,2021-10-22,2022-04-29,2022-06-03,Completed,7467559.9,217663.26
+P011,Intersection upgrade #11,Intersection upgrade,LA,State DOT,PM-02,8421215.8,7579094.22,2020-07-22,2021-07-28,2021-11-10,Completed,9052835.78,131204.14
+P012,Bridge rehabilitation #12,Bridge rehabilitation,TX,State DOT,PM-02,12721043.2,11448938.88,2024-04-25,2025-03-20,2025-06-26,Completed,12428726.64,222622.47
+P013,Drainage & culverts #13,Drainage & culverts,OK,County,PM-03,6110779.75,5499701.78,2020-04-04,2020-11-14,2020-12-05,Completed,5669532.45,95671.65
+P014,Drainage & culverts #14,Drainage & culverts,AR,County,PM-01,4685342.52,4216808.27,2024-08-10,2025-01-11,2025-01-25,Completed,4223573.25,38285.91
+P015,New bridge #15,New bridge,TX,State DOT,PM-02,41374922.28,37237430.05,2024-06-10,2026-05-18,,Active,,922264.49
+P016,Bridge rehabilitation #16,Bridge rehabilitation,TX,City,PM-02,16365952.58,14729357.32,2025-04-01,2026-04-21,2026-06-30,Completed,17075722.25,1081318.93
+P017,Road resurfacing #17,Road resurfacing,AR,State DOT,PM-02,3536529.06,3182876.15,2022-04-12,2022-10-25,2022-11-15,Completed,3981094.63,0.0
+P018,Drainage & culverts #18,Drainage & culverts,AR,County,PM-04,5117659.78,4605893.8,2024-12-02,2025-07-28,2025-09-15,Completed,5494271.19,163734.09
+P019,Bridge rehabilitation #19,Bridge rehabilitation,LA,County,PM-01,6209202.11,5588281.9,2023-06-25,2024-04-28,2024-07-07,Completed,6192956.37,0.0
+P020,Intersection upgrade #20,Intersection upgrade,AR,State DOT,PM-02,6130193.76,5517174.39,2024-03-22,2024-11-15,2024-12-06,Completed,6073406.77,15514.82
+P021,Intersection upgrade #21,Intersection upgrade,TX,County,PM-02,13472348.68,12125113.82,2022-11-11,2023-06-16,2023-07-21,Completed,16655072.39,444280.77
+P022,Road resurfacing #22,Road resurfacing,LA,County,PM-01,8767163.02,7890446.72,2025-12-13,2026-08-22,2026-08-29,Completed,8442269.51,93450.97
+P023,Drainage & culverts #23,Drainage & culverts,OK,State DOT,PM-02,5850505.97,5265455.38,2022-12-07,2023-06-21,2023-07-12,Completed,6672928.43,64825.65
+P024,Drainage & culverts #24,Drainage & culverts,LA,State DOT,PM-03,2217571.55,1995814.4,2020-03-04,2020-09-16,2020-10-14,Completed,2182392.67,80199.95
+P025,Drainage & culverts #25,Drainage & culverts,TX,State DOT,PM-02,6095624.96,5486062.46,2025-07-17,2025-12-25,2026-01-15,Completed,6252262.58,232127.37
+P026,Drainage & culverts #26,Drainage & culverts,LA,State DOT,PM-03,5173577.77,4656219.99,2021-10-02,2022-04-16,2022-04-23,Completed,5956324.56,228243.17
+P027,Bridge rehabilitation #27,Bridge rehabilitation,AR,Port Authority,PM-03,11102534.43,9992280.99,2025-01-10,2026-03-27,2026-08-21,Completed,10592752.32,289165.68
+P028,Road resurfacing #28,Road resurfacing,TX,Port Authority,PM-01,3070636.96,2763573.27,2023-03-09,2023-12-07,2023-12-21,Completed,3060546.7,0.0
+P029,Road resurfacing #29,Road resurfacing,LA,State DOT,PM-03,6168775.18,5551897.66,2025-02-20,2025-07-10,2025-07-17,Completed,5970299.13,57962.75
+P030,Road resurfacing #30,Road resurfacing,LA,County,PM-02,8432035.72,7588832.15,2026-01-28,2026-09-16,,Active,,56110.19
+P031,Road resurfacing #31,Road resurfacing,AR,County,PM-02,5257783.62,4732005.26,2023-07-22,2024-03-30,2024-05-11,Completed,5237229.65,93284.89
+P032,Drainage & culverts #32,Drainage & culverts,OK,County,PM-04,5484595.08,4936135.57,2023-03-21,2023-08-22,2023-09-12,Completed,5435607.32,77807.88
+P033,Drainage & culverts #33,Drainage & culverts,TX,State DOT,PM-02,1597074.31,1437366.88,2025-12-15,2026-06-08,2026-07-06,Completed,1546195.19,46894.23
+P034,Drainage & culverts #34,Drainage & culverts,OK,State DOT,PM-01,5857791.07,5272011.96,2023-05-08,2023-10-23,2023-11-13,Completed,5447433.08,0.0
+P035,Road resurfacing #35,Road resurfacing,AR,City,PM-03,6777294.2,6099564.78,2020-05-01,2020-12-04,2020-12-18,Completed,6589446.01,238318.06
+P036,New bridge #36,New bridge,AR,State DOT,PM-04,34520166.47,31068149.82,2020-12-22,2022-07-19,2023-02-28,Completed,39221991.9,4310271.57
+P037,Drainage & culverts #37,Drainage & culverts,AR,City,PM-01,5608940.49,5048046.44,2021-12-25,2022-05-07,2022-05-21,Completed,6679314.65,60034.73
+P038,Road resurfacing #38,Road resurfacing,LA,County,PM-02,6300318.22,5670286.4,2021-01-02,2021-07-03,2021-07-24,Completed,6858861.33,0.0

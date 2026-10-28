@@ -1,0 +1,231 @@
+project_id,item,unit,bid_qty,bid_unit_price,actual_qty,actual_unit_price
+P001,Concrete Class S,m3,1118.7,602.94,1140.3,614.12
+P001,Reinforcing steel,kg,149723.2,2.0,157375.8,2.16
+P001,Excavation,m3,42867.6,17.48,44526.6,18.61
+P001,Aggregate base,ton,11561.0,32.41,11348.8,34.38
+P001,Pipe culvert RCP,m,3674.0,305.98,3720.3,309.54
+P001,Traffic control,day,174.1,1722.22,176.5,1866.02
+P002,Hot mix asphalt,ton,7704.1,125.41,7515.4,124.39
+P002,Concrete Class S,m3,557.7,831.55,579.6,837.35
+P002,Excavation,m3,13585.8,22.76,14104.5,24.79
+P002,Aggregate base,ton,13311.0,43.55,13717.6,44.92
+P002,Traffic control,day,131.0,2360.47,133.1,2390.86
+P002,Guardrail,m,2790.7,110.79,3010.7,114.42
+P002,Pavement markings,m,48590.4,3.98,49905.3,4.26
+P003,Hot mix asphalt,ton,33955.3,118.56,33566.1,115.51
+P003,Excavation,m3,21080.2,21.22,21710.6,23.0
+P003,Aggregate base,ton,32467.4,41.33,32910.0,44.2
+P003,Traffic control,day,324.6,2204.93,340.3,2286.66
+P003,Guardrail,m,4257.0,105.07,4437.0,112.64
+P003,Pavement markings,m,136681.5,3.93,138939.0,4.45
+P004,Hot mix asphalt,ton,23871.2,94.76,24335.5,122.4
+P004,Excavation,m3,12749.7,19.71,12998.5,21.28
+P004,Aggregate base,ton,20620.6,36.57,19743.4,39.97
+P004,Traffic control,day,204.1,1970.66,199.8,2172.88
+P004,Guardrail,m,2743.1,91.62,2547.7,107.21
+P004,Pavement markings,m,89960.8,3.35,97018.0,3.8
+P005,Concrete Class S,m3,1462.9,747.55,1508.5,792.49
+P005,Reinforcing steel,kg,193619.4,2.51,197979.7,2.75
+P005,Excavation,m3,57510.1,21.13,58631.9,21.69
+P005,Aggregate base,ton,14712.2,41.3,14990.0,43.38
+P005,Pipe culvert RCP,m,4797.8,379.91,4680.5,408.08
+P005,Traffic control,day,226.6,2144.53,233.8,2228.43
+P006,Hot mix asphalt,ton,14626.5,92.01,14266.9,94.44
+P006,Concrete Class S,m3,1079.0,598.64,1061.2,590.37
+P006,Excavation,m3,24553.0,17.54,27803.0,18.71
+P006,Aggregate base,ton,24773.6,32.59,25510.6,35.46
+P006,Traffic control,day,247.4,1740.72,253.0,1823.36
+P006,Guardrail,m,5211.5,82.63,5024.3,83.96
+P006,Pavement markings,m,89472.9,3.01,90272.0,3.26
+P007,Hot mix asphalt,ton,20730.7,128.25,21164.7,127.72
+P007,Concrete Class S,m3,1554.7,820.83,1608.4,890.68
+P007,Excavation,m3,35427.5,24.01,33060.1,25.54
+P007,Aggregate base,ton,36483.3,43.72,37301.2,47.69
+P007,Traffic control,day,351.0,2424.08,357.7,2367.87
+P007,Guardrail,m,7181.8,118.46,7374.2,119.33
+P007,Pavement markings,m,125105.3,4.25,116952.5,4.33
+P008,Hot mix asphalt,ton,17699.4,89.53,19014.9,101.64
+P008,Concrete Class S,m3,1252.0,607.51,1266.2,673.52
+P008,Excavation,m3,29266.9,17.33,29556.8,19.61
+P008,Aggregate base,ton,28853.3,32.95,28647.8,36.81
+P008,Traffic control,day,287.4,1764.58,272.7,2113.96
+P008,Guardrail,m,6110.5,82.98,6373.9,89.71
+P008,Pavement markings,m,102006.8,3.11,108843.3,3.53
+P009,Hot mix asphalt,ton,22503.1,97.9,23546.8,118.29
+P009,Concrete Class S,m3,1591.8,664.28,1670.6,758.98
+P009,Excavation,m3,36601.9,19.26,35879.1,22.62
+P009,Aggregate base,ton,35785.8,36.94,37446.3,42.63
+P009,Traffic control,day,349.2,2018.51,337.0,2145.7
+P009,Guardrail,m,7835.1,89.97,8147.8,105.75
+P009,Pavement markings,m,127227.8,3.46,133675.1,3.77
+P010,Hot mix asphalt,ton,31063.0,90.61,32711.1,121.01
+P010,Excavation,m3,17278.2,18.1,17662.5,22.86
+P010,Aggregate base,ton,27324.1,34.34,27555.5,41.94
+P010,Traffic control,day,275.8,1814.58,278.3,2343.2
+P010,Guardrail,m,3648.7,85.71,3888.1,107.61
+P010,Pavement markings,m,117252.0,3.2,122020.5,3.62
+P011,Hot mix asphalt,ton,24676.8,94.79,25524.6,107.19
+P011,Concrete Class S,m3,1865.3,601.95,2028.1,696.28
+P011,Excavation,m3,41922.0,17.86,43098.1,18.89
+P011,Aggregate base,ton,42186.4,33.27,43822.1,34.73
+P011,Traffic control,day,410.1,1825.37,442.5,1981.32
+P011,Guardrail,m,9045.8,82.75,9364.6,91.6
+P011,Pavement markings,m,153223.4,3.05,164049.0,3.36
+P012,Concrete Class S,m3,5004.3,786.44,5016.0,784.46
+P012,Reinforcing steel,kg,940644.0,2.66,947575.0,2.7
+P012,Structural steel,kg,455131.5,6.29,509234.1,6.33
+P012,Traffic control,day,619.0,2311.86,631.5,2337.48
+P012,Guardrail,m,6543.3,109.36,7217.7,112.8
+P013,Concrete Class S,m3,1694.5,621.5,1725.7,629.18
+P013,Reinforcing steel,kg,240330.3,1.95,246381.0,1.97
+P013,Excavation,m3,67502.3,17.33,69029.3,17.4
+P013,Aggregate base,ton,17699.5,33.06,18150.2,34.96
+P013,Pipe culvert RCP,m,5697.2,308.09,5784.8,310.07
+P013,Traffic control,day,262.5,1783.17,297.3,1747.16
+P014,Concrete Class S,m3,1012.3,797.67,1061.6,832.99
+P014,Reinforcing steel,kg,131867.1,2.72,133276.2,2.78
+P014,Excavation,m3,37504.0,23.92,38260.5,22.94
+P014,Aggregate base,ton,10304.8,43.53,10333.8,45.08
+P014,Pipe culvert RCP,m,3370.4,399.3,3224.5,404.04
+P014,Traffic control,day,155.7,2304.44,148.0,2280.15
+P015,Concrete Class S,m3,18007.3,756.55,20340.7,828.46
+P015,Reinforcing steel,kg,2989154.6,2.73,3119614.1,2.75
+P015,Structural steel,kg,1500506.9,6.05,1509607.8,6.17
+P015,Excavation,m3,118043.0,23.08,114977.9,22.77
+P015,Traffic control,day,1576.5,2304.48,1632.9,2382.46
+P016,Concrete Class S,m3,6171.5,820.42,5873.6,868.23
+P016,Reinforcing steel,kg,1182064.9,2.73,1278800.2,2.89
+P016,Structural steel,kg,582815.4,6.32,612122.1,6.38
+P016,Traffic control,day,767.5,2398.97,793.0,2385.97
+P016,Guardrail,m,8076.8,113.98,8478.2,120.36
+P017,Hot mix asphalt,ton,18071.7,94.35,18064.2,116.71
+P017,Excavation,m3,9983.4,18.98,9872.9,22.54
+P017,Aggregate base,ton,15147.2,37.52,14818.0,40.98
+P017,Traffic control,day,157.3,1927.43,159.7,2023.12
+P017,Guardrail,m,2070.8,91.49,1956.0,106.27
+P017,Pavement markings,m,64289.7,3.54,68795.3,4.0
+P018,Concrete Class S,m3,1123.5,785.0,1117.9,881.77
+P018,Reinforcing steel,kg,146529.5,2.68,151428.5,2.74
+P018,Excavation,m3,43169.4,22.7,45498.6,23.99
+P018,Aggregate base,ton,11418.5,42.91,12022.4,46.64
+P018,Pipe culvert RCP,m,3628.0,405.17,4170.9,417.15
+P018,Traffic control,day,166.6,2352.59,164.1,2435.51
+P019,Concrete Class S,m3,2566.0,748.63,2634.9,764.43
+P019,Reinforcing steel,kg,473113.3,2.58,482809.5,2.72
+P019,Structural steel,kg,246157.7,5.68,247070.4,6.03
+P019,Traffic control,day,320.7,2178.29,345.4,2309.18
+P019,Guardrail,m,3314.2,105.38,3470.4,105.58
+P020,Hot mix asphalt,ton,14096.0,120.8,14454.3,123.84
+P020,Concrete Class S,m3,995.7,820.87,1017.7,806.36
+P020,Excavation,m3,24067.0,22.64,25864.0,24.09
+P020,Aggregate base,ton,22737.8,44.93,23714.9,44.81
+P020,Traffic control,day,237.2,2296.92,245.0,2395.35
+P020,Guardrail,m,5002.5,108.93,5193.0,111.81
+P020,Pavement markings,m,83638.1,4.07,91022.9,4.16
+P021,Hot mix asphalt,ton,37983.4,98.53,39760.7,128.04
+P021,Concrete Class S,m3,2833.8,633.88,3126.6,792.01
+P021,Excavation,m3,60010.3,19.96,60458.2,21.76
+P021,Aggregate base,ton,62654.6,35.84,64519.9,45.75
+P021,Traffic control,day,625.6,1914.15,572.9,2306.36
+P021,Guardrail,m,13334.5,89.81,14052.2,108.92
+P021,Pavement markings,m,225317.6,3.32,238924.0,4.05
+P022,Hot mix asphalt,ton,33322.7,126.85,35644.8,125.72
+P022,Excavation,m3,20023.2,23.46,20581.5,23.99
+P022,Aggregate base,ton,31763.5,44.36,32831.5,48.73
+P022,Traffic control,day,317.4,2367.7,337.6,2532.63
+P022,Guardrail,m,4152.9,113.1,4337.0,121.41
+P022,Pavement markings,m,133998.1,4.21,136190.8,4.55
+P023,Concrete Class S,m3,1507.7,668.74,1510.5,805.24
+P023,Reinforcing steel,kg,221553.7,2.02,239691.1,2.95
+P023,Excavation,m3,56628.2,19.78,57080.5,22.77
+P023,Aggregate base,ton,14844.4,37.74,14765.7,43.06
+P023,Pipe culvert RCP,m,4838.1,347.34,5277.1,396.23
+P023,Traffic control,day,237.1,1889.63,261.5,2339.82
+P024,Concrete Class S,m3,666.9,573.07,674.3,652.05
+P024,Reinforcing steel,kg,82632.7,2.06,85277.9,2.19
+P024,Excavation,m3,23638.0,17.96,26377.5,17.33
+P024,Aggregate base,ton,6300.9,33.7,6786.1,34.21
+P024,Pipe culvert RCP,m,2169.0,293.67,2337.6,307.32
+P024,Traffic control,day,101.1,1680.8,105.2,1830.26
+P025,Concrete Class S,m3,1265.6,830.05,1312.2,807.32
+P025,Reinforcing steel,kg,178058.9,2.62,184943.9,2.72
+P025,Excavation,m3,50836.0,22.96,53695.9,24.43
+P025,Aggregate base,ton,13236.1,44.09,13249.7,44.24
+P025,Pipe culvert RCP,m,4396.3,398.26,4502.2,414.14
+P025,Traffic control,day,199.2,2343.57,197.5,2533.16
+P026,Concrete Class S,m3,1400.3,636.75,1470.4,789.18
+P026,Reinforcing steel,kg,210513.8,1.88,223808.4,2.49
+P026,Excavation,m3,54915.7,18.04,58591.9,21.47
+P026,Aggregate base,ton,14824.3,33.41,15432.1,40.95
+P026,Pipe culvert RCP,m,4902.8,303.1,5214.5,376.96
+P026,Traffic control,day,219.2,1807.6,233.6,2278.18
+P027,Concrete Class S,m3,4329.3,793.4,4610.0,863.36
+P027,Reinforcing steel,kg,796239.3,2.75,770547.5,2.7
+P027,Structural steel,kg,395924.7,6.31,371121.7,6.54
+P027,Traffic control,day,533.1,2342.85,539.2,2529.1
+P027,Guardrail,m,5446.3,114.67,5319.1,116.12
+P028,Hot mix asphalt,ton,12825.7,115.43,13376.5,122.17
+P028,Excavation,m3,7603.5,21.63,7839.0,23.17
+P028,Aggregate base,ton,12278.8,40.19,12501.9,43.85
+P028,Traffic control,day,119.5,2201.71,123.2,2306.46
+P028,Guardrail,m,1545.0,106.47,1554.7,104.95
+P028,Pavement markings,m,49897.8,3.96,51812.7,4.16
+P029,Hot mix asphalt,ton,24137.2,123.22,25685.3,131.16
+P029,Excavation,m3,14142.0,23.37,13741.3,24.27
+P029,Aggregate base,ton,22664.8,43.74,23146.6,45.73
+P029,Traffic control,day,228.7,2312.4,223.5,2360.19
+P029,Guardrail,m,2941.1,112.36,2880.9,107.18
+P029,Pavement markings,m,98261.3,4.04,93141.0,4.34
+P030,Hot mix asphalt,ton,32066.2,126.78,30553.4,124.31
+P030,Excavation,m3,19397.8,23.29,18892.2,25.12
+P030,Aggregate base,ton,29566.8,45.83,30081.6,46.77
+P030,Traffic control,day,297.0,2433.15,270.8,2477.71
+P030,Guardrail,m,3991.7,113.16,4333.5,117.94
+P030,Pavement markings,m,122288.4,4.43,123023.5,4.2
+P031,Hot mix asphalt,ton,21411.6,118.39,21799.2,119.97
+P031,Excavation,m3,12463.6,22.6,12333.9,23.36
+P031,Aggregate base,ton,20306.7,41.61,21054.4,42.44
+P031,Traffic control,day,203.1,2218.63,208.6,2209.5
+P031,Guardrail,m,2722.6,103.46,2867.6,110.58
+P031,Pavement markings,m,85759.1,3.94,90675.9,4.06
+P032,Concrete Class S,m3,1255.4,752.94,1356.7,756.26
+P032,Reinforcing steel,kg,169147.4,2.48,175328.9,2.6
+P032,Excavation,m3,48392.7,21.7,53309.4,21.99
+P032,Aggregate base,ton,12918.4,40.65,13068.7,43.26
+P032,Pipe culvert RCP,m,4107.1,383.57,4053.4,402.3
+P032,Traffic control,day,192.6,2181.69,202.2,2288.32
+P033,Concrete Class S,m3,328.7,837.24,352.9,840.02
+P033,Reinforcing steel,kg,45415.6,2.69,47691.4,2.78
+P033,Excavation,m3,13372.0,22.87,13693.6,25.08
+P033,Aggregate base,ton,3361.1,45.49,3435.8,46.5
+P033,Pipe culvert RCP,m,1118.2,410.24,1109.0,416.26
+P033,Traffic control,day,51.4,2380.37,51.6,2463.83
+P034,Concrete Class S,m3,1315.3,767.53,1247.6,750.16
+P034,Reinforcing steel,kg,175396.3,2.56,182972.1,2.67
+P034,Excavation,m3,51059.0,21.97,49536.2,23.44
+P034,Aggregate base,ton,13523.9,41.47,14003.7,41.77
+P034,Pipe culvert RCP,m,4622.5,363.99,4443.3,400.95
+P034,Traffic control,day,205.9,2179.16,211.9,2365.86
+P035,Hot mix asphalt,ton,35702.6,91.52,38215.7,97.96
+P035,Excavation,m3,20353.1,17.84,19018.1,17.91
+P035,Aggregate base,ton,33124.5,32.88,33615.1,33.23
+P035,Traffic control,day,337.2,1722.57,330.0,1798.88
+P035,Guardrail,m,4519.3,80.34,4434.4,88.12
+P035,Pavement markings,m,140360.9,3.1,148301.4,3.29
+P036,Concrete Class S,m3,18621.2,610.4,18842.9,660.31
+P036,Reinforcing steel,kg,3355950.1,2.03,3579853.5,2.26
+P036,Structural steel,kg,1707654.1,4.44,1736377.1,5.19
+P036,Excavation,m3,133871.4,16.98,132669.2,19.83
+P036,Traffic control,day,1748.5,1733.53,1854.1,2051.82
+P037,Concrete Class S,m3,1509.0,640.57,1611.7,779.96
+P037,Reinforcing steel,kg,223084.3,1.93,227794.8,2.5
+P037,Excavation,m3,58936.9,18.22,59689.3,21.87
+P037,Aggregate base,ton,16105.4,33.34,17611.7,40.23
+P037,Pipe culvert RCP,m,5009.2,321.62,5165.8,378.17
+P037,Traffic control,day,243.5,1764.69,265.5,2238.33
+P038,Hot mix asphalt,ton,35532.6,85.49,34951.7,104.81
+P038,Excavation,m3,18356.6,18.39,19015.2,19.14
+P038,Aggregate base,ton,30768.0,32.91,29902.6,36.86
+P038,Traffic control,day,302.6,1784.68,319.9,2072.96
+P038,Guardrail,m,3981.0,84.78,3914.9,100.61
+P038,Pavement markings,m,123686.5,3.27,124953.4,3.3
