@@ -48,7 +48,7 @@ Column-level details: [`docs/data_dictionary.md`](docs/data_dictionary.md).
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/ridgeline-infrastructure-analytics.git
+git clone https://github.com/ferserna95/ridgeline-infrastructure-analytics.git
 cd ridgeline-infrastructure-analytics
 pip install -r requirements.txt
 python src/generate_data.py      # regenerates data/ (optional, CSVs are included)
