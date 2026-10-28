@@ -56,7 +56,7 @@ python src/generate_data.py      # regenerates data/ (optional, CSVs are include
 
 ## Roadmap
 
-- [x] Fictional company and synthetic dataset
+- [x] Business case scenario and synthetic dataset
 - [x] Repository structure and documentation
 - [ ] Exploratory data analysis and EVM metrics
 - [ ] Predictive model for cost overrun and schedule delay
